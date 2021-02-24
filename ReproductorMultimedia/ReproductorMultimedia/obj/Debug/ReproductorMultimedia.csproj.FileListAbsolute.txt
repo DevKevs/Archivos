@@ -1,0 +1,15 @@
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\bin\Debug\ReproductorMultimedia.exe.config
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\bin\Debug\ReproductorMultimedia.exe
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\bin\Debug\ReproductorMultimedia.pdb
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\bin\Debug\Interop.WMPLib.dll
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.csprojAssemblyReference.cache
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\Interop.WMPLib.dll
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.csproj.ResolveComReference.cache
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.Form1.resources
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.Properties.Resources.resources
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.csproj.GenerateResource.cache
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.csproj.CoreCompileInputs.cache
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.exe
+C:\Users\gt\source\repos\ReproductorMultimedia\ReproductorMultimedia\obj\Debug\ReproductorMultimedia.pdb
